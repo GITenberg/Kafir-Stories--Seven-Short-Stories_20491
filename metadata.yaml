@@ -1,0 +1,29 @@
+_repo: Kafir-Stories--Seven-Short-Stories_20491
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scully, W. C. (William Charles)
+    alias: Scully, William Charles
+    birthdate: 1855
+    deathdate: 1943
+    gutenberg_agent_id: '6225'
+    url: http://www.gutenberg.org/2009/agents/6225
+description: ''
+gutenberg_issued: '2007-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Xhosa (African people) -- Fiction'
+- !lcc 'PR'
+tableOfContents: The Eumenides in Kafirland -- The fundamental axiom -- Kellson's
+  nemesis -- The quest of the copper -- Ghamba -- Ukushwama -- Umtagati.
+title: 'Kafir Stories: Seven Short Stories'
+url: http://www.gutenberg.org/ebooks/20491
